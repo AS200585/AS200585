@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AS200585
-- 👀 I’m interested in ...Computer Science
-- 🌱 I’m currently learning ...Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Computer Science, Web Development, Artificial Intelligence, Machine Learning, Data Science
+- 🌱 I’m currently learning ...Python, Data Visualization, Machine Learning
+- 💞️ I’m looking to collaborate on ...Python Projects, NumPy-Pandas-Matplotlib-Seaborn Projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...None
 - ⚡ Fun fact: ...
 
 <!---
